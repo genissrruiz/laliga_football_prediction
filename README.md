@@ -13,6 +13,6 @@ Each notebook contains different information and analysis:
 
 -rf_test_analysis: It contains the error analysis of 'season','round' and teams. It also includes the draws~accuracy study.
 
-The paper _football_prediction_paper.pdf_ may be a great guide for the code.
+The paper _football_result_prediction_paper.pdf_ may be a great guide for the code.
 
 
